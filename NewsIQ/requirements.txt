@@ -1,0 +1,13 @@
+transformers
+datasets
+evaluate
+accelerate
+scikit-learn
+torch
+nltk
+pandas
+numpy
+matplotlib
+seaborn
+groq
+ipywidgets
